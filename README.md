@@ -1,2 +1,1 @@
-# react_gpt3
-React app using gpt3 API
+# React App using GPT3 Open AI API
